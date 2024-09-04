@@ -69,5 +69,8 @@ yarn-error.log
 /chatbot/agent/agent_prompt.js
 /chatbot/chain/chain_prompt.js
 
+# android budle
+/android/app/src/main/assets/index.android.bundle
+
 # env
 .env
